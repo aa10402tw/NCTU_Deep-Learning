@@ -1,8 +1,10 @@
 # NCTU_DeepLearning
 Completed :
-- [x] Back-propgation
-- [ ] Convolution Neural Network (CNN)
-- [ ] Recurrent Neural Network (RNN)
+- [x] Back-propagation
+- [ ] EEGNet for EEG classification (CNN)
+- [ ] ResNet for Diabetic retinopathy detection (CNN)
+- [ ] Back-propagation Through Time (RNN)
+- [ ] Conditional Sequence-to-Sequence Variation Autoencoder (RNN + VAE)
 - [ ] Generative Adversarial Networks (GAN) 
 - [ ] Deep Reinforcement Learning (DRL)
 
