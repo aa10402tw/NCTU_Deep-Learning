@@ -5,6 +5,7 @@ Completed :
 - [x] ResNet for Diabetic retinopathy detection (CNN)
 - [x] Back-propagation Through Time (RNN)
 - [x] Conditional Sequence-to-Sequence Variation Autoencoder (RNN + VAE)
-- [ ] InfoGAN for MINST(GAN) 
-- [ ] Deep Reinforcement Learning (DRL)
+- [x] InfoGAN for MINST (GAN) 
+- [x] TD Learning for MINST (RL) 
+- [x] DQN & DDPG for Atari Games (DRL)
 
