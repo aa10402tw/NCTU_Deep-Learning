@@ -10,11 +10,7 @@ Completed :
 - [x] DQN & DDPG for Atari Games (DRL)
 
 ## Back-propagation
-Data <br>
-<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/back-prop_data.PNG" width="60%"> <br>
-Model Architecture <br>
-<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/back-prop_net.PNG" width="60%"> <br>
-Loss Curve <br>
-<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/back-prop_loss.PNG" width="60%"> <br>
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/back-prop.png" width="60%"> <br>
+
 
 
