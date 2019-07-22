@@ -1,7 +1,6 @@
-# NCTU_DeepLearning
 Table of Contents
 =================
-  * [Back-Propagation (DNN)](#Back-Propagation)
+  * [Back-Propagation (BP)](#Back-Propagation)
   * [EEGNet for EEG classification (CNN)](#EEGNet)
   * [Diabetic-retinopathy-detection (CNN)](#Diabetic-retinopathy-detection)
   * [Back-Propagation-Through-Time (BPTT)](#Back-Propagation-Through-Time)
