@@ -6,8 +6,8 @@ Table of Contents
   * [Back-Propagation-Through-Time (BPTT)](#Back-Propagation-Through-Time)
   * [Conditional Sequence-to-Sequence Variation Autoencoder (RNN + VAE)](#Conditional-Seq2Seq-VAE)
   * [InfoGAN for MINST (GAN)](#InfoGAN)
-  * [Time-Difference Learning for MINST (RL) ](#Back-Propagation-Through-Time)
-  * [DQN & DDPG for Atari Games (DRL)](#Back-Propagation-Through-Time)
+  * [Time-Difference Learning for MINST (RL) ](#TD-learning)
+  * [DQN & DDPG for Atari Games (DRL)](#DQN_and_DDPG)
 
 ## Back-Propagation
 <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/back-prop.png" width="60%"> <br>
@@ -26,5 +26,13 @@ Table of Contents
 
 ## InfoGAN
 <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/InfoGAN.png" width="60%"> <br>
+
+# TD-learning
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/TD.png" width="60%"> <br>
+
+# DQN_and_DDPG 
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/CartPole-v0.gif" width="30%"> <br>
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/Pendulum-v0.gif" width="30%"> <br>
+
 
 
