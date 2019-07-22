@@ -1,4 +1,10 @@
 # NCTU_DeepLearning
+There are five parts of this repository, 
+including [Back-Propagation(DNN)](#Back-Propagation), 
+[EEGNet for EEG classification(CNN)](#EEGNet), 
+[Diabetic-retinopathy-detection(CNN)](#Diabetic-retinopathy-detection),
+[Back-Propagation-Through-Time(BPTT)](#Back-Propagation-Through-Time), 
+
 Completed :
 - [x] Back-propagation (NN)
 - [x] EEGNet for EEG classification (CNN)
@@ -9,7 +15,7 @@ Completed :
 - [x] TD Learning for MINST (RL) 
 - [x] DQN & DDPG for Atari Games (DRL)
 
-## Back-propagation
+## Back-Propagation
 <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/back-prop.png" width="60%"> <br>
 
 ## EEGNet
