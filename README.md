@@ -15,5 +15,8 @@ Completed :
 ## EEGNet
 <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/EEGNet.png" width="60%"> <br>
 
+## Diabetic-retinopathy-detection
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/Diabetic.png" width="60%"> <br>
+
 
 
