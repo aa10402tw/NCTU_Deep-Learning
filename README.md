@@ -5,7 +5,7 @@ Table of Contents
   * [Diabetic-retinopathy-detection (CNN)](#Diabetic-retinopathy-detection)
   * [Back-Propagation-Through-Time (BPTT)](#Back-Propagation-Through-Time)
   * [Conditional Sequence-to-Sequence Variation Autoencoder (RNN + VAE)](#Conditional-Seq2Seq-VAE)
-  * [InfoGAN for MINST (GAN)](#Back-Propagation-Through-Time)
+  * [InfoGAN for MINST (GAN)](#InfoGAN)
   * [Time-Difference Learning for MINST (RL) ](#Back-Propagation-Through-Time)
   * [DQN & DDPG for Atari Games (DRL)](#Back-Propagation-Through-Time)
 
@@ -24,5 +24,7 @@ Table of Contents
 ## Conditional-Seq2Seq-VAE
 <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/CVAE.png" width="60%"> <br>
 
+## InfoGAN
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/InfoGAN.png" width="60%"> <br>
 
 
