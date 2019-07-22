@@ -9,3 +9,9 @@ Completed :
 - [x] TD Learning for MINST (RL) 
 - [x] DQN & DDPG for Atari Games (DRL)
 
+## Back-propagation
+Data <br>
+Model Architecture <br>
+Loss Curve <br>
+
+
