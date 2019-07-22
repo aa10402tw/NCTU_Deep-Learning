@@ -12,5 +12,8 @@ Completed :
 ## Back-propagation
 <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/back-prop.png" width="60%"> <br>
 
+## EEGNet
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/EEGNet.png" width="60%"> <br>
+
 
 
