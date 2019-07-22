@@ -31,8 +31,9 @@ Table of Contents
 <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/TD.png" width="60%"> <br>
 
 # DQN_and_DDPG 
-<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/CartPole-v0.gif" width="30%"> <br>
-<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/Pendulum-v0.gif" width="30%"> <br>
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/CartPole-v0.gif" width="30%"> <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/DQN.png" width="60%"><br>
+
+<img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/Pendulum-v0.gif" width="30%"> <img src="https://github.com/aa10402tw/NCTU_DeepLearning/blob/master/results/DDPG.png" width="60%"><br>
 
 
 
