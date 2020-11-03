@@ -6,7 +6,7 @@ Table of Contents
   * [Back-Propagation-Through-Time (BPTT)](#Back-Propagation-Through-Time)
   * [Conditional Sequence-to-Sequence Variation Autoencoder (RNN + VAE)](#Conditional-Seq2Seq-VAE)
   * [InfoGAN for MINST (GAN)](#InfoGAN)
-  * [Time-Difference Learning for MINST (RL) ](#TD-learning)
+  * [Time-Difference Learning for 2048 (RL) ](#TD-learning)
   * [DQN & DDPG for Atari Games (DRL)](#DQN_and_DDPG)
 
 ## Back-Propagation
